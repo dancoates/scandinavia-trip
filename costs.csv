@@ -1,0 +1,136 @@
+date_start,name,category,subcategory,country,city,cost,transaction
+2018-09-09,Aus to Denmark flight,transport,flight,,,871.51,
+2018-09-10,Dubai airport lunch,food,lunch,UAE,Dubai,13.17,
+2018-09-11,CPH metro ticket,transport,train,Denmark,Copenhagen,17.38,
+2018-09-10,Copenhagen airbnb,accomodation,accomodation,Denmark,Copenhagen,131.52,
+2018-09-11,Reykjavik airbnb,accomodation,accomodation,Iceland,Reykjavik,90.99,
+2018-09-12,Blonduos airbnb,accomodation,accomodation,Iceland,Blonduos,93.795,
+2018-09-13,Akureyri airbnb,accomodation,accomodation,Iceland,Akureyri,98.455,
+2018-09-14,Reyðarfjörður airbnb,accomodation,accomodation,Iceland,Reyðarfjörður,83.49,
+2018-09-15,Hofn accom,accomodation,accomodation,Iceland,Hofn,109.175,
+2018-09-16,Hvolsvöllur airbnb,accomodation,accomodation,Iceland,Hvolsvöllur,118.29,
+2018-09-17,Selfoss  airbnb,accomodation,accomodation,Iceland,Selfoss,51.595,
+2018-09-18,Reykjavik airbnb,accomodation,accomodation,Iceland,Reykjavik,91.935,
+2018-09-19,Oslo airbnb,accomodation,accomodation,Norway,Oslo,88.64,
+2018-09-20,Rauland airbnb,accomodation,accomodation,Norway,Rauland,56.79,
+2018-09-21,Bergen airbnb day 1,accomodation,accomodation,Norway,Bergen,73.3016666667,
+2018-09-22,Bergen airbnb day 2,accomodation,accomodation,Norway,Bergen,73.3016666667,
+2018-09-23,Sogndal airbnb,accomodation,accomodation,Norway,Sogndal,77.965,
+2018-09-24,Loen airbnb day 1,accomodation,accomodation,Norway,Loen,99.795,
+2018-09-25,Loen airbnb day 2,accomodation,accomodation,Norway,Loen,99.795,
+2018-09-26,Ringebu airbnb,accomodation,accomodation,Norway,Ringebu,97.45,
+2018-09-27,Oslo airbnb,accomodation,accomodation,Norway,Oslo,87.125,
+2018-09-28,Copenhagen airbnb day 1,accomodation,accomodation,Denmark,Copenhagen,104.405,
+2018-09-29,Copenhagen airbnb day 2,accomodation,accomodation,Denmark,Copenhagen,104.405,
+2018-09-30,Bornholm airbnb day 1,accomodation,accomodation,Denmark,Bornholm,70.8375,
+2018-10-01,Bornholm airbnb day 2,accomodation,accomodation,Denmark,Bornholm,70.8375,
+2018-10-02,Aarhus airbnb day 1,accomodation,accomodation,Denmark,Aarhus,74.5925,
+2018-10-03,Aarhus airbnb day 1,accomodation,accomodation,Denmark,Aarhus,74.5925,
+2018-09-11,Keflavik to Reykjavik Airport bus transfer,transport,bus,Iceland,Reykjavik,39.08,Allrahanda ehf ISK Klettagordum ISL
+2018-09-10,Danish sim card,communication,phone,Denmark,Copenhagen,32.6,7Eleven B 027 Koebenhavn K DNK
+2018-09-10,Water,food,groceries,Denmark,Copenhagen,4.12,7Eleven B 027 Koebenhavn K DNK
+2018-09-10,Dinner at pixie bar,food,dinner,Denmark,Copenhagen,41.125,Pixie Bar Koebenhavn oe DNK
+2018-09-10,10 rolls portra,photography,film,Denmark,Copenhagen,162.57,Photografica Koebenhavn K DNK
+2018-09-11,Copenhagen breakfast,food,breakfast,Denmark,Copenhagen,13.215,Kaffe Fabrikken ApS Koebenhavn OE DNK
+2018-09-11,Copenhagen bakery rolls,food,groceries,Denmark,Copenhagen,3.48,
+2018-09-11,Fish n Chips reykjavik,food,dinner,Iceland,Reykjavik,40.2,
+2018-09-12,Groceries reykjavik,food,groceries,Iceland,Reykjavik,35.78,
+2018-09-12,Snorri Museum,attractions,cultural,Iceland,Reykholt,15.08,
+2018-09-12,Iceland sim,communication,phone,Iceland,Stadarskali,49.31,"N1 Stadarskali - 2611 Hrutafjordur ISL, Fjarskipti hf. REYKJAV&iquest;K ISL"
+2018-09-10,Netto snacks,food,snacks,Denmark,Copenhagen,3,
+2018-09-12,Reykjavik brekky,food,breakfast,Iceland,Reykjavik,11.5,MOSFELLSBAKAR&iquest; MOSFELLSBER ISL
+2018-09-12,Iceland car rental,transport,car,Iceland,Reykjavik,416.28,Thrifty Iceland Bildshofda 8 ISL
+2018-09-13,Akureyri dinner,food,dinner,Iceland,Akureyri,60.46,
+2018-09-13,Akureyri rolls,food,groceries,Iceland,Akureyri,5.72,
+2018-09-14,Akureyri groceries,food,groceries,Iceland,Akureyri,10.22,
+2018-09-12,Water,food,groceries,Iceland,Reykholt,5.32,LANGHOLT EHF Borgarnes ISL
+2018-09-13,Akureyri icecream,food,snacks,Iceland,Akureyri,8.91,Vald&shy;s Akureyri AKUREYRI ISL
+2018-09-13,Kidka beanie,present,self,Iceland,Hvammstangi,35.81,Kidka ehf Hvammstangi ISL
+2018-09-13,Iceland petrol 1 (peninsula),transport,car,Iceland,Hvammstangi,46.14,Orkan - 514 Hvammstangi ISL
+2018-09-14,Iceland petrol 2 (myvatn),transport,car,Iceland,Myvatn,44.675,N1 Kopavogur ISL
+2018-09-14,Myvatn lava fields bathroom,attractions,natural,Iceland,Myvatn,5.11,Dimmuborgir ehf H&thorn;SAV&iquest;K ISL
+2018-09-14,Myvatn tea,food,groceries,Iceland,Myvatn,4.45,Jardbodin vid Myvatn M&Ccedil;vatn 660
+2018-09-14,Myvatn baths,attractions,natural,Iceland,Myvatn,71.94,
+2018-09-15,Snacks at rock museum town,food,snacks,Iceland,Stöðvarfjörður,6.98,Brekkan Stodvarfirdi ISL
+2018-09-15,Hofn dinner,food,dinner,Iceland,Hofn,34.99,Hafnarbudin ehf. HOFN ISL
+2018-09-16,Iceland petrol 3 (hofn),transport,car,Iceland,Hofn,46.605,N1 Kopavogur ISL
+2018-09-16,Hofn shopping,food,groceries,Iceland,Hofn,28.19,
+2018-09-16,Vik Dinner (soup place),food,dinner,Iceland,Vik,27.69,
+2018-09-17,iceland petrol 4 (??),transport,car,Iceland,Reykjavik,45.41,N1 Kopavogur ISL
+2018-09-18,Lebowski bar dinner,food,dinner,Iceland,Reykjavik,51.72,Lebowskibar Reykjavik - 1 ISL
+2018-09-17,selfoss shopping,food,groceries,Iceland,Selfoss,13.3,
+2018-09-18,Reykjavik bar,food,drinks,Iceland,Reykjavik,30.29,The Irishman Reykjavik ISL
+2018-09-18,Iceland petrol 5 (reykjavik),transport,car,Iceland,Reykjavik,36.265,N1 Kopavogur ISL
+2018-09-19,Reykjavik to Keflavik airport bus,transport,bus,Iceland,Reykjavik,40.7,
+2018-09-19,Oslo airport train,transport,train,Norway,Oslo,32.39,FLYTOGET 1009999 Oslo NOR
+2018-09-10,copenhagen to reykjavik flight,transport,flight,,,186.97,
+2018-09-19,reykjavik to oslo flight,transport,flight,,,186.97,
+2018-09-19,oslo s sandwiches,food,lunch,Norway,Oslo,12.52,COOP PRIX POSTGIROBYG OSLO NOR
+2018-09-19,oslo metro card,transport,train,Norway,Oslo,17.9,RUTER AS 14 AUT OSLO NOR
+2018-09-20,Gausta mountain funicular,attractions,natural,Norway,Gausta,66.53,
+2018-09-20,Gaustatoppen hot choc,food,snacks,Norway,Gausta,5.12,
+2018-09-19,Oslo groceries,food,groceries,Norway,Oslo,23.33,
+2018-09-20,snacks,food,snacks,Norway,Rauland,3.55,
+2018-09-21,Bergen dinner,food,dinner,Norway,Bergen,51.02,Play IT Again Sam AS Bergen NOR
+2018-09-21,Norway petrol 1 (Kinsarvik),transport,car,Norway,Kinsarvik,43.76,ESSO KINSARVIK KINSARVIK NOR
+2018-09-21,bergen groceries 1,food,groceries,Norway,Bergen,7.56,
+2018-09-22,bergen groceries 2,food,groceries,Norway,Bergen,14.85,
+2018-09-22,bergen funicular,attractions,natural,Norway,Bergen,8.41,
+2018-09-22,bergen lunch,food,lunch,Norway,Bergen,40,
+2018-09-23,bergen parking,transport,car,Norway,Bergen,22.6,
+2018-09-23,Mannheller-Fodnes/Rv5 ferry,transport,ferry,Norway,Fodnes,10.14,FJORD1 T4000 FLOROE NOR
+2018-09-23,Flam railway,attractions,natural,Norway,Flam,92.76,
+2018-09-24,Urnes ferry,transport,ferry,Norway,Urnes,26.49,iZ *Lustrabaatane SOLVORN NOR
+2018-09-24,Urnes stave church,attractions,cultural,Norway,Urnes,15.18,
+2018-09-25,Loen skylift,attractions,natural,Norway,Loen,85.16,
+2018-09-25,Mt hoveden food + hot choc,food,snacks,Norway,Loen,12,
+2018-09-25,Socks for dad,present,other,Norway,Gerainger,8.35,
+2018-09-25,Norway petrol 2 (stryn),transport,car,Norway,Stryn,47.56,YX STRYN 0217 STRYN NOR
+2018-09-26,Ringebu groceries,food,groceries,Norway,Ringebu,21.36,
+2018-09-26,Lunch in otta,food,lunch,Norway,Otta,47.53,Pillarguri Kafe AS Otta NOR
+2018-09-27,Norway petrol 3 (ringebu),transport,car,Norway,Ringebu,50.745,Shell Faavang Faavang NOR
+2018-09-27,Oslo snacks,food,snacks,Norway,Oslo,19.3,Kiwi 315 Kvaernerbyen Oslo NOR
+2018-09-27,Viking ship museum oslo,attractions,cultural,Norway,Oslo,16.97,
+2018-09-27,ship museum presents,present,other,Norway,Oslo,27.76,Vikingskipshuset Butik Oslo NOR
+2018-09-27,Norway petrol 3 (oslo),transport,car,Norway,Oslo,21.035,Shell Frogner Oslo NOR
+2018-09-27,oslo metro card,transport,train,Norway,Oslo,17.99,RUTER AS 16 AUT OSLO NOR
+2018-09-28,oslo to copenhagen train,transport,train,Denmark,Copenhagen,129.59,
+2018-09-28,Goteborg morning tea,food,snacks,Sweden,Goteborg,7.66,
+2018-09-28,Copenhagen 48hr metro card,transport,train,Denmark,Copenhagen,65.06,DSB KOBENHAVN AUT KOBENHAVN V DNK
+2018-09-28,Copenhagen pizza dinner,food,dinner,Denmark,Copenhagen,22.55,AAlholm pizzaria Valby DNK
+2018-09-20,Norway car rental,transport,car,Norway,Oslo,474.31,Europcar Oslo NOR
+2018-09-29,Copenhagen breakfast dessert,food,breakfast,Denmark,Copenhagen,5.64,Grannys House Torvehal Koebenhavn K DNK
+2018-09-29,Copenhagen breakfast,food,breakfast,Denmark,Copenhagen,11.93,Norcino Koebenhavn K DNK
+2018-09-29,Copenhagen bread (weirdly salty),food,groceries,Denmark,Copenhagen,9.76,LAURAS BAKERY TORVEHAL Kobenhavn K DNK
+2018-09-29,Copenhagen card,attractions,cultural,Denmark,Copenhagen,86.55,
+2018-09-29,Copenhagen lunch,food,lunch,Denmark,Copenhagen,30.5,
+2018-09-29,Copenhagen drinks,food,drinks,Denmark,Copenhagen,19,
+2018-09-29,Copenhagen churros,food,snacks,Denmark,Copenhagen,11.93,Rajissimo Koebenhavn K DNK
+2018-09-30,Bornholm groceries,food,groceries,Denmark,Bornholm,26.46,
+2018-09-30,Bornholm beers,food,drinks,Denmark,Bornholm,21.72,DagliBrugsen OEsterLar Gudhjem DNK
+2018-09-30,Ystad morning tea,food,breakfast,Sweden,Ystad,8.32,LINA MARCELA AB YSTAD SWE
+2018-10-01,Bornhom mini golf,attractions,activity,Denmark,Bornholm,16.17,
+2018-10-01,Europcar mysterious extra charge,transport,car,Norway,Oslo,32.11,Europcar Oslo NOR
+2018-09-30,Bornholm ferry lunch,food,lunch,Denmark,Bornholm,10.63,EXPRESS 1 ARHUS C DNK
+2018-10-01,Ronne bakery snacks,food,snacks,Denmark,Bornholm,3.03,Konditor bager Roenne Roenne DNK
+2018-10-02,Return ferry snacks,food,snacks,Denmark,Bornholm,4.31,
+2018-10-02,Storebaelt bridge,transport,car,Denmark,StoreBaelt,26.01,Storebaelt I Korsoer DNK
+2018-10-02,Denmark petrol 1,transport,car,Denmark,Copenhagen,39.935,Q8 Service 8238 Noerre Aaby DNK
+2018-10-02,Ystad parking,transport,car,Sweden,Ystad,0.78,PARKERINGYSTADS KOMMU YSTAD SWE
+2018-10-02,Ystad lunch,food,lunch,Sweden,Ystad,11.5,
+2018-10-02,Ystad snacks,food,snacks,Sweden,Ystad,3.5,
+2018-10-01,Bornholm bike rental,attractions,activity,Denmark,Bornholm,16.15,
+2018-10-02,Aarhus groceries dinner,food,groceries,Denmark,Aarhus,5.68,
+2018-10-03,Aarhus presents for people,present,other,Denmark,Aarhus,93.15,
+2018-10-03,Aarhus presents for me,present,self,Denmark,Aarhus,43.36,ARoS Aarhus Kunstmuseu Aarhus C DNK
+2018-10-03,Aarhus afternoon tea,food,snacks,Denmark,Aarhus,16.34,La Cabra ApS Aarhus C DNK
+2018-10-03,Aarhus dome beer,food,drinks,Denmark,Aarhus,7.63,Buckys Aarhus C DNK
+2018-10-03,Aarhus art museum ARoS,attractions,cultural,Denmark,Aarhus,21.54,
+2018-10-03,Lunch at ARoS,food,lunch,Denmark,Aarhus,24.53,
+2018-10-03,Dinner Aarhus,food,dinner,Denmark,Aarhus,38.7,
+2018-10-04,Lunch CPH airport,food,lunch,Denmark,Copenhagen,11.385,HMSHost Cph Airport Kastrup DNK
+2018-10-04,Denmark petrol 2,transport,car,Denmark,Copenhagen,33.445,OK Praestefaelledvej Kastrup DNK
+2018-10-04,Storebaelt bridge,transport,car,Denmark,StoreBaelt,26.28,AS Storebaelt Korsoer DNK
+2018-09-30,Denmark car rental,transport,car,Denmark,Copenhagen,413.97,HERTZ CPH 50 UDENRIGS KASTRUP DNK
+2018-10-04,Neck pillow and mask,transport,flight,,,64.73,DUBAI DUTY FREE- CA AT DUBAI UAE
+2018-09-09,Denmark to aus flight,transport,flight,,,871.51,
